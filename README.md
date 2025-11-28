@@ -1,5 +1,4 @@
 # 41k-osint-tool
-Credits goes to the Owner
 ![Alt text](https://github.com/joschi3957/41k-osint-tool/blob/main/ignore-this.png)
 # How to install
 
@@ -9,5 +8,5 @@ Credits goes to the Owner
 
 # I am not responsible for anything that are be done when using this tool!
 
-# Credits
-Credits goes to [uhqm1000](https://github.com/uhqm1000)
+# helped with this project
+[uhqm1000](https://github.com/uhqm1000)
